@@ -8,7 +8,7 @@ networkx==2.6.2
 numpy
 oauthlib==3.1.1
 plotly==5.2.2
-ruamel_yaml==0.15.87
+ruamel_yaml>=0.15.87,<=1.0.0
 torch==1.9.0
 torch-cluster==1.5.9
 torch-geometric==1.7.2
